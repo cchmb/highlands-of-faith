@@ -2,8 +2,8 @@
 layout: page
 title: Seven Deadly Sins
 
-home_url: SDS_Preface.html
-next_url: Avarice.html
+home_url: index.html
+next_url: avarice.html
 ---
 
 # PRIDE #

@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Seven Deadly Sins
-
-home_url: SDS_Preface.html
-prev_url: Appetite.html
-next_url: Sloth.html
 ---
 SEVEN DEADLY SINS
 
@@ -41,15 +37,15 @@ March 1901.
 
 CONTENTS:
   
-[1.) Pride](Pride.html)  
-[2.) Avarice](Avarice.html)  
-[3.) Luxury](Luxury.html)  
-[4.) Envy](Envy.html)  
-[5.) Appetite](Appetite.html)  
-[6.) Anger](Anger.html)  
-[7.) Sloth](Sloth.html)  
+[1.) Pride](pride.html)  
+[2.) Avarice](avarice.html)  
+[3.) Luxury](luxury.html)  
+[4.) Envy](envy.html)  
+[5.) Appetite](appetite.html)  
+[6.) Anger](anger.html)  
+[7.) Sloth](sloth.html)  
 
-[Appendix](Appendix.html)
+[Appendix](appendix.html)
 
 
 ----

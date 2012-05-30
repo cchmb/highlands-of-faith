@@ -2,8 +2,8 @@
 layout: page
 title: Seven Deadly Sins
 
-home_url: SDS_Preface.html
-prev_url: Sloth.html
+home_url: index.html
+prev_url: sloth.html
 ---
 
 (Edinburgh University Press T. and A. CONSTABLE (late) Printers to Her Majesty)

@@ -2,9 +2,9 @@
 layout: page
 title: Seven Deadly Sins
 
-home_url: SDS_Preface.html
-prev_url: Luxury.html
-next_url: Appetite.html
+home_url: index.html
+prev_url: luxury.html
+next_url: appetite.html
 ---
 
 # ENVY #
