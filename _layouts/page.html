@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link href="http://fonts.googleapis.com/css?family=Lustria" rel="stylesheet" />
+    <link href="/style.css" rel="stylesheet" />
+  </head>
+  <body>
+
+{% if page.prev_url %}
+  <a href="{{ page.prev_url }}" rel="previous">Previous Chapter</a>
+{% endif %}
+
+{{ content }}
+
+{% if page.next_url %}
+  <a href="{{ page.next_url }}" rel="next">Next Chapter</a>
+{% endif %}
+
+  </body>
+</html>
