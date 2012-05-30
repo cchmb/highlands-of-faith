@@ -1,58 +1,74 @@
-<!--
 body {
-	font-family: "Georgia", serif;
-	margin-top: 0em;
-	margin-left: 10px;
-	background-color: #FFFFFF;
-	background-attachment: fixed;
-	background-image: 	url(images/background.gif);
+  background-color: #FFFFFF;
+  font-family: "Georgia", serif;
+  font-size:15
+  margin: 1em;
 }
 
-img { 
-	border-style: none 
+img {
+  border-style: none
 }
 
-P
-{ font-size:15}
-
-FONT
-{ font-size:15}
-A:link
-{ font-size:15; text-decoration: none; color:#222288}
-A:visited
-{font-size:15;  text-decoration: underline; color:#333399}
-A:active
-{font-size:15;  text-decoration: underline; color:#5566ee}
-A:hover
-{font-size:15;  text-decoration: underline; color:#FF6C00}
-
-td
-{ font-size:15}
-
-hr { 
-border: dotted; 
-color: 888888;
-height: 1px; 
-} 
-
-#phototable
-{border: outset 3pt #556688;
-border-collapse: collapse;
-background-color: #7788aa; 
+P {
 }
 
-caption 
-{ font-size:12}
-
-SELECT 
-{ font-size: 11px; font-family: 'Comic Sans MS', serif; font-weight: 600; color: #660000; height: 18px; vertical-align: text-bottom 
+.center {
+  text-align: center;
 }
 
-Option 
-{ font-size: 10pt; font-family: 'Comic Sans MS', serif; font-weight: 600; color: #660000; height: 18px; vertical-align: text-bottom 
+a:link {
+  text-decoration: none;
+  color:#222288
+}
+a:visited {
+  text-decoration: underline;
+  color:#333399
+}
+a:active {
+  text-decoration: underline;
+  color:#5566ee
+}
+a:hover {
+  text-decoration: underline;
+  color:#FF6C00
 }
 
-option.title 
-{background-color: #cc0000; font-weight: bold; font-size: 10px; color: white;}
+hr {
+  color: 888888;
+  height: 1px;
+}
 
--->
+#phototable {
+  border: outset 3pt #556688;
+  border-collapse: collapse;
+  background-color: #7788aa;
+}
+
+caption {
+  font-size:12
+}
+
+select {
+  font-size: 11px;
+  font-family: 'Comic Sans MS', serif;
+  font-weight: 600;
+  color: #660000;
+  height: 18px;
+  vertical-align: text-bottom;
+}
+
+option {
+  font-size: 10pt;
+  font-family: 'Comic Sans MS', serif;
+  font-weight: 600;
+  color: #660000;
+  height: 18px;
+  vertical-align: text-bottom;
+}
+
+option.title {
+  background-color: #cc0000;
+  font-weight: bold;
+  font-size: 10px;
+  color: white;
+}
